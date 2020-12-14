@@ -2,4 +2,5 @@ Discussions allow community members to start conversations
 and ask questions without 
 opening problems. 
 Start by switching discussions in Featur. If you forgot about
-convertion you need to check a Converting strings.
+convertion you need to check a Converting strings and all.
+
